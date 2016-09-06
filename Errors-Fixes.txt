@@ -1,0 +1,12 @@
+Error in Script 'DrawGui' at Line 393, Position 94: Symbol , or ) expected.
+	-                 draw_rectangle(view_xview+view_wview-38,view_yview+view_hview-6,view_xview++view_wview-38+temppercent*23,view_yview+view_hview-5,false);
+
+Commented all out. Probably will break somethings:
+Error in Script 'ZoomOut' at Line 4, Position 10: Unknown function or script: window_set_region_scale
+Error in Script 'ZoomIn' at Line 4, Position 10: Unknown function or script: window_set_region_scale
+Error in Script 'screen_begin' at Line 6, Position 6: Unknown function or script: screen_refresh
+Error in Script 'screen_setports' at Line 3, Position 6: Unknown function or script: window_set_region_scale
+Error in Object obj_ControlScreen, Event Alarm 0, Action 1 at Line 3, Position 6: Unknown function or script: message_text_font
+Error in Object obj_QuitObj, Event Key Press <Escape>, Action 1 at Line 2, Position 6: Unknown function or script: message_text_font
+Error in Room rm_Boss's Creation Code at Line 4, Position 9: Unknown function or script: window_set_region_scale
+
